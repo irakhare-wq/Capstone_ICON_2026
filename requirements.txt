@@ -1,0 +1,28 @@
+# Core numerical / data handling
+numpy
+pandas
+
+# PDF parsing
+PyMuPDF
+
+# Embeddings, retrieval, ranking
+torch
+sentence-transformers
+faiss-cpu
+rank-bm25
+rapidfuzz
+spacy
+
+# LLM providers / SDKs
+openai
+groq
+google-genai
+
+# Automated evaluation
+deepeval
+
+# Data validation
+pydantic
+
+# Web application
+Flask
