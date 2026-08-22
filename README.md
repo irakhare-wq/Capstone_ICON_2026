@@ -3,7 +3,7 @@ A Quality Assurance Framework for AI Retrieval Systems in Oncology Regulatory Gu
 
 ## Repository Structure
 
-- **`FDA documents/`**: the six source FDA guidance documents used by the guidance pipeline.
+- **`FDA documents/`**: the six source FDA guidance documents used by the guidance pipeline and 2 protocols.
 - **`Evaluation_results.xlsx`**: the evaluation questions and results used to test the guidance pipeline.
 - **`Guidance_Pipeline.py`**: the FDA guidance RAG pipeline: document ingestion, chunking, retrieval, answer generation, and the eleven-grader quality assurance framework.
 - **`Guidance_App.py`**: the web application for the guidance pipeline, letting a reviewer ask a question, view the generated answer, and inspect the source evidence and quality scores behind it.
